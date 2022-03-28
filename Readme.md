@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Марина Добрусина](https://up.htmlacademy.ru/adaptive/25/user/1953987).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Зубов] (https://up.htmlacademy.ru/profession/frontender/13/adaptive/25/tutors).
 
 ---
 
